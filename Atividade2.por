@@ -18,8 +18,7 @@ programa
 		real x2 = -(-B - M.raiz(delta, 2)) / 2 *A
 
 		escreva("Delta: ", delta, "\n")
-		escreva("X1: ", x1, "\nX2: ",2
-		-x2)
+		escreva("X1: ", x1, "\nX2: ",x2)
 		escreva("\nA: ", A, "\nB:", B, "\nC: ", C)
 		
 		}
